@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Aqui vai uma versão mais completa e profissional do seu README, mantendo simples e direto:
 
-## Getting Started
+---
 
-First, run the development server:
+## Como usar
+
+Rodar o servidor de desenvolvimento:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Sobre o projeto
 
-## Learn More
+Este é um **projeto de teste de uma landing page**, desenvolvido com foco em apresentar um modelo moderno e responsivo para empresas.
 
-To learn more about Next.js, take a look at the following resources:
+A proposta é demonstrar, na prática, como pode ser entregue uma página institucional com:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Design atrativo e profissional
+* Boa experiência do usuário (UX)
+* Layout responsivo (desktop e mobile)
+* Estrutura otimizada para apresentação de serviços
+* Seções estratégicas (hero, serviços, benefícios, contato, etc.)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Objetivo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Este projeto serve como **portfólio e demonstração comercial**, podendo ser utilizado para:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* Apresentar a clientes como exemplo de entrega
+* Validar ideias de layout e UX
+* Base para novos projetos de landing pages
+* Prototipação rápida sem necessidade de backend
+
+---
+
+## Observações
+
+* Este projeto é **100% front-end** (não utiliza banco de dados)
+* Todos os dados exibidos são **fictícios**
+* Pode ser facilmente adaptado para qualquer tipo de negócio
+
+---Aqui vai uma versão mais completa e profissional do seu README, mantendo simples e direto:
+
+---
+
+## Como usar
+
+Rodar o servidor de desenvolvimento:
+
+```bash
+npm run dev
+```
+
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador.
+
+---
+
+## Sobre o projeto
+
+Este é um **projeto de teste de uma landing page**, desenvolvido com foco em apresentar um modelo moderno e responsivo para empresas.
+
+A proposta é demonstrar, na prática, como pode ser entregue uma página institucional com:
+
+* Design atrativo e profissional
+* Boa experiência do usuário (UX)
+* Layout responsivo (desktop e mobile)
+* Estrutura otimizada para apresentação de serviços
+* Seções estratégicas (hero, serviços, benefícios, contato, etc.)
+
+---
+
+## Objetivo
+
+Este projeto serve como **portfólio e demonstração comercial**, podendo ser utilizado para:
+
+* Apresentar a clientes como exemplo de entrega
+* Validar ideias de layout e UX
+* Base para novos projetos de landing pages
+* Prototipação rápida sem necessidade de backend
+
+---
+
+## Observações
+
+* Este projeto é **100% front-end** (não utiliza banco de dados)
+* Todos os dados exibidos são **fictícios**
+* Pode ser facilmente adaptado para qualquer tipo de 
+* O email mencionado nos botões de ação e numero de telefone são os unicos dados reais disponiveis para comunicação
+
+```
+📞 Contato: 96 981114744 
+📩 Email: leandroauzier02@gmail.com
+```
